@@ -16,5 +16,8 @@ Thumbs.db
 # Node (in case of future tooling)
 node_modules/
 
+# Temporary/sensitive data
+tmp/
+
 # Claude Code auto-memory (personal, not project)
 .claude/projects/
