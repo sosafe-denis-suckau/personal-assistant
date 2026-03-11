@@ -1,0 +1,1 @@
+Greet the user and give a brief summary of what's currently stored in memory (check the `data/` directory). If there's nothing yet, offer to help set things up.
