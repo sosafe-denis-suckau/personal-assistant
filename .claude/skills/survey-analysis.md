@@ -75,6 +75,7 @@ Generate individual CSV files in `tmp/survey-csvs/` designed as tabs to sit alon
 | Per-Team Averages | All numeric questions averaged per team, including eNPS — **main heatmap table** |
 | Ordinal by Team | Per-team distributions for each ordinal question |
 | Themes: [Topic] | One CSV per theme cluster (sentiment, theme, mentions, teams) |
+| Per-Team Pain Points & Positives | One row per team with aggregated pain points and positives from all free-text themes |
 | Requested Tools | Tool wishlist with mention counts (if applicable) |
 
 ### Memory
